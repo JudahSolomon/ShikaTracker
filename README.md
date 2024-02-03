@@ -12,7 +12,7 @@ ShikaTracker is a simple finance manager app developed in Flutter, designed to h
 - ## Technologies
 - 1. Flutter
   2. Firebase
-  3. GetX Library for management
+  3. GetX Library for State management and dependency injection
   4. Flutter Chart for Graph Representation of Data.
 
 
