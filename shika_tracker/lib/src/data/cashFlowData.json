@@ -1,0 +1,33 @@
+[
+  {
+    "item": "Rent",
+    "itemDetails": "Rent for this month",
+    "price": -400.00,
+    "date": "Jan 01"
+  },
+  {
+    "item": "Transportation",
+    "itemDetails": "Transportation to work this week",
+    "price": -20.00,
+    "date": "Feb 01"
+  },
+
+  {
+    "item": "RydeX App payment",
+    "itemDetails": "Received the Payment for the RydeX App from MAG",
+    "price": 2000.00,
+    "date": "Jan 6"
+  },
+  {
+    "item": "Groceries",
+    "itemDetails": "Groceries for Lunch",
+    "price": -40.00,
+    "date": "Jan 20"
+  },
+  {
+    "item": "Audio Transcription",
+    "itemDetails": "Audio Transcription Gig from Eli",
+    "price": 500.00,
+    "date": "Jan 10"
+  }
+]

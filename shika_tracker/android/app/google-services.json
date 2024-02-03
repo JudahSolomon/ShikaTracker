@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901508584265",
+    "project_id": "shikatracker-396d3",
+    "storage_bucket": "shikatracker-396d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901508584265:android:dc6c949f72d10a12dfc098",
+        "android_client_info": {
+          "package_name": "com.example.shika_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1nu5e7rXZSt6nOjVOb_Qwj9Q0ohA2C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
